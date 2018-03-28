@@ -2,6 +2,4 @@
 
 echo "conexiones";
  ?>
-sxsd
-likjasldjlksadjk
-tere2
+clean pull
