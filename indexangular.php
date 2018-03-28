@@ -6,7 +6,4 @@ asdsad
   actualización 3.2
   sdf final
   jkxjchjkzxhc
-</html>asdasd
-jn,n,mm,nmnjhjkh,n,mnjjkjh
-asdsad
-tere2
+</html>
